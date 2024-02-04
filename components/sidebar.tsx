@@ -46,7 +46,7 @@ const Sidebar=() => {
         >
             <Box paddingY="20px">
                 <Box width="120px" marginBottom="20px" paddingX="20px" >
-                    <NextImage src="/logo.png" height={60} width={120}/>
+                <NextImage src="/logo.png" height={60} width={120} alt="Logo" />
                 </Box>
                 <Box marginBottom="20px">
                     <List spacing={2}>
